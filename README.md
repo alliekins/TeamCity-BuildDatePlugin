@@ -1,5 +1,7 @@
 This is a very simple plugin for [TeamCity](http://www.jetbrains.com/teamcity/) that allows insertion of server dates and times. 
 
+DOWNLOAD: [BuildDate 1.0.0](http://alexhowland.com/teamcity/builddate/BuildDatePlugin_1.0.0.zip)
+
 You can use BuildDate to insert dates anywhere TeamCity accepts %variables%.
 
 The available variables are:
