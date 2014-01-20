@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teamcity-plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:shemas-jetbrains-com:teamcity-plugin-v1-xml">
+  <info>
+    <name>BuildDatePlugin</name>
+    <display-name>BuildDatePlugin</display-name>
+    <version>@Version@</version>
+    <description>adds a number of new parameters to insert current date/time as parameters</description>
+    <email>alex.howland@gmail.com</email>
+    <vendor>
+      <name>Alex Howland</name>
+      <url>http://github.com/alliekins</url>
+    </vendor>
+  </info>
+  <deployment use-separate-classloader="true" />
+</teamcity-plugin>
