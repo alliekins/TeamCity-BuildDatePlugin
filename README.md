@@ -22,8 +22,8 @@ The available variables are:
 * `date.hour.24`: Number of hours in 24-hour format without leading zero
 * `date.hour.24.lead0`: Number of hours in 24-hour format with leading zero
 
-* `date.minute`: Number of seconds without leading zero
-* `date.minute.lead0`: Number of seconds with leading zero
+* `date.minute`: Number of minutes without leading zero
+* `date.minute.lead0`: Number of minutes with leading zero
 
 * `date.second`: Number of seconds without leading zero
 * `date.second.lead0` Number of seconds with leading zero
